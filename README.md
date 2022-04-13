@@ -16,6 +16,16 @@ Happy Enjoy!👍
 5. Jalankan perintah `php artisan serve` untuk mengaktifkan development server.
 # Testing API 
 ### Read Data (Melihat Data Transaksi)
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="public/img/read.png" width="400"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="public/img/read.png" width="400"></a></p>
 
+## Read Data By ID ( Melihat Data Bersarkan ID )
+<p align="center"><a href="#" target="_blank"><img src="public/img/readbyid.png" width="400"></a></p>
 
+### Add Data ( Menambahkan Datat Transaksi )
+<p align="center"><a href="#" target="_blank"><img src="public/img/add.png" width="400"></a></p>
+
+## Update Data ( Merubah Data Transaksi )
+<p align="center"><a href="#" target="_blank"><img src="public/img/put.png" width="400"></a></p>
+
+## Update Data ( Merubah Data Transaksi )
+<p align="center"><a href="#" target="_blank"><img src="public/img/delete.png" width="400"></a></p>
