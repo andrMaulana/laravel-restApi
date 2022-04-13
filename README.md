@@ -29,3 +29,6 @@ Happy Enjoy!👍
 
 ## Update Data ( Merubah Data Transaksi )
 <p align="center"><a href="#" target="_blank"><img src="public/img/delete.png" width="400"></a></p>
+
+
+## PENUTUP 
