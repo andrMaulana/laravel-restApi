@@ -1,11 +1,17 @@
-# Mailgun Contact Form API
+## API Transaksi Produk - UTS Pemrograman Web Framework
 
-[![Build Status](https://travis-ci.org/jlengstorf/mailgun-contact-form-api.svg?branch=master)](https://travis-ci.org/jlengstorf/mailgun-contact-form-api) [![Code Climate](https://codeclimate.com/github/jlengstorf/mailgun-contact-form-api/badges/gpa.svg)](https://codeclimate.com/github/jlengstorf/mailgun-contact-form-api) [![Test Coverage](https://codeclimate.com/github/jlengstorf/mailgun-contact-form-api/badges/coverage.svg)](https://codeclimate.com/github/jlengstorf/mailgun-contact-form-api/coverage) [![Issue Count](https://codeclimate.com/github/jlengstorf/mailgun-contact-form-api/badges/issue_count.svg)](https://codeclimate.com/github/jlengstorf/mailgun-contact-form-api)
+- Nama: Andri Maulana
+- Kelas: IF20B
+- NIM: 20416255201065
 
-Simple Node.js REST API to handle contact form submissions. Developed as part of a tutorial.
+Happy Enjoy!👍
+# Cara Instalasi Api
+## Dokumentasi
+### Menjalankan Server API
 
-The goal of this app is to demonstrate:
+1. Clone repositori ini.
+1. Install XAMPP versi terbaru. Pastikan direktori PHP XAMPP sudah ada pada environment variable `PATH`.
+2. Buka XAMPP. Nyalakan Apache dan MySQL.
+3. Buka Phpmyadmin dan buat database baru yang bernama `crud-restapi`.
+4. Jalankan perintah `php artisan serve` untuk mengaktifkan development server.
 
-- Building a simple API using [hapi](http://hapijs.com/)
-- Writing tests using [Jasmine](http://jasmine.github.io/2.4/introduction.html)
-- Sending messages using [Mailgun](http://mailgun.com/)
