@@ -6,12 +6,16 @@
 
 Happy Enjoy!👍
 # Cara Instalasi Api
-## Dokumentasi
 ### Menjalankan Server API
 
 1. Clone repositori ini.
 1. Install XAMPP versi terbaru. Pastikan direktori PHP XAMPP sudah ada pada environment variable `PATH`.
 2. Buka XAMPP. Nyalakan Apache dan MySQL.
 3. Buka Phpmyadmin dan buat database baru yang bernama `crud-restapi`.
-4. Jalankan perintah `php artisan serve` untuk mengaktifkan development server.
+4. Silhakan import database yang bernama `crud-restapi.sql`.
+5. Jalankan perintah `php artisan serve` untuk mengaktifkan development server.
+# Testing API 
+### Read Data (Melihat Data Transaksi)
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="public/img/read.png" width="400"></a></p>
+
 
